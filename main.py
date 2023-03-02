@@ -7,7 +7,7 @@ import json
 from PyQt5.QtGui import QPixmap
 app=QApplication([])
 
-#окно
+#window
 main_win=QWidget()
 #main_win.size(700,400)
 main_win.setWindowTitle('Easy Editor')
